@@ -1,6 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=300&section=header&text=Yongyeon%20Kim&fontSize=90&fontColor=ffffff&animation=fadeIn)
+
 # 안녕하세요! 김용연입니다. 👋
 
 저는 **LLM(Large Language Model) 학습 및 서빙**, 그리고 **FastAPI를 활용한 AI 서비스 API 개발**에 주력하고 있습니다.
+
+<br/>
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
@@ -12,17 +16,15 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yongyeon-Kim&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongyeon-Kim&layout=compact&theme=radical" height="180" alt="languages" />
+## 📬 Contact
+<div align="left">
+  <a href="https://github.com/Yongyeon-Kim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 <br/>
 
-## 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yongyeon-Kim&theme=radical" alt="streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:3776AB&height=100&section=footer" width="100%" />
 </div>
