@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+## **About Me**
 
 안녕하세요, 김용연입니다.
 
@@ -20,7 +20,7 @@
 - FastAPI 기반 AI API를 개발하고, 실서비스까지 배포합니다.
 - Docker, CI/CD, 모니터링까지 포함한 End-to-End 운영을 지향합니다.
 
-## Tech Stack
+## **Tech Stack**
 
 ### AI / ML
 <p>
@@ -57,10 +57,10 @@
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-## Contact
+## **Contact**
 
 - GitHub: https://github.com/Yongyeon-Kim
-- Email: `your-email@example.com`
+- Email: `dyddus1210@gmail.com`
 
 ---
 
