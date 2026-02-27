@@ -57,25 +57,6 @@
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
-## Featured Projects
-
-- [openapi-spec-chatbot](https://github.com/Yongyeon-Kim/openapi-spec-chatbot)
-- [llm-trainer](https://github.com/Yongyeon-Kim/llm-trainer)
-- [vLLM-with-OpenWebUI](https://github.com/Yongyeon-Kim/vLLM-with-OpenWebUI)
-- [Ollama-with-OpenWebUI](https://github.com/Yongyeon-Kim/Ollama-with-OpenWebUI)
-- [Django_Elasticsearch](https://github.com/Yongyeon-Kim/Django_Elasticsearch)
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yongyeon-Kim&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongyeon-Kim&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yongyeon-Kim&theme=github-compact&hide_border=true" />
-</div>
-
 ## Contact
 
 - GitHub: https://github.com/Yongyeon-Kim
