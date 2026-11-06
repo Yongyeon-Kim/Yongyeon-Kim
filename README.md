@@ -1,69 +1,45 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1d4ed8&height=260&section=header&text=Yongyeon%20Kim&fontSize=68&fontColor=ffffff&animation=fadeIn)
+![Yongyeon Kim](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1d4ed8&height=200&section=header&text=Yongyeon%20Kim&fontSize=54&fontColor=ffffff)
 
-### LLM Training · LLM Serving · AI Backend Engineering
+### LLM Engineering · AI Backend · Observability
 
-<a href="https://github.com/Yongyeon-Kim">
-  <img src="https://komarev.com/ghpvc/?username=Yongyeon-Kim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+모델 학습부터 서비스 배포와 모니터링까지, AI 시스템을 만듭니다.
+
+[GitHub](https://github.com/Yongyeon-Kim) · [Email](mailto:dyddus1210@gmail.com)
 
 </div>
 
----
+## About
 
-## **👤 About Me**
+안녕하세요, 김용연입니다. LLM 학습·평가·서빙 파이프라인과 AI 백엔드를 개발합니다.
 
-안녕하세요, 김용연입니다.
+- **LLM 학습과 평가** — 사전 학습 및 미세 조정 환경을 구성하고, 도메인별 평가를 통해 모델을 검증합니다.
+- **추론과 서비스** — vLLM·Ollama 기반 서빙 환경과 FastAPI 기반 AI API를 구축합니다.
+- **배포와 운영** — Docker와 CI/CD로 실행 환경을 구성하고, 메트릭·로그·알림을 연결합니다.
 
-- LLM 학습/서빙 파이프라인을 설계하고 운영합니다.
-- FastAPI 기반 AI API를 개발하고, 실서비스까지 배포합니다.
-- Docker, CI/CD, 모니터링까지 포함한 End-to-End 운영을 지향합니다.
+## Selected Projects
 
-## **🛠️ Tech Stack**
+| 프로젝트 | 주요 내용 | 기술 |
+| :--- | :--- | :--- |
+| [LLM Trainer](https://github.com/Yongyeon-Kim/llm-trainer) | LLaMA Factory 기반 LLM 사전 학습·SFT 실행 환경 | Python · LLaMA Factory · Docker |
+| [LLM Civil Eval](https://github.com/Yongyeon-Kim/llm-civil-eval) | 토목공학 도메인의 객관식 질의응답·한영 번역·어휘 평가 | Python · Docker |
+| [vLLM + Open WebUI](https://github.com/Yongyeon-Kim/vLLM-with-OpenWebUI) | 로컬 모델 추론 서버와 웹 인터페이스를 연결하는 배포 환경 | vLLM · Open WebUI · Docker Compose |
+| [OpenAPI Spec Chatbot](https://github.com/Yongyeon-Kim/openapi-spec-chatbot) | OpenAPI 명세를 바탕으로 API 질문에 한국어로 답하는 챗봇 | Python · Streamlit · Gemini |
+| [Grafana Reporter](https://github.com/Yongyeon-Kim/grafana-reporter) | 모니터링 데이터 요약 리포트 생성과 Mattermost·이메일 전송 자동화 | Grafana · Prometheus · Loki · Python |
 
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+## Tech Stack
 
-### LLM Serving
-<p>
-  <img src="https://img.shields.io/badge/vLLM-341C52?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
+| 분야 | 기술 |
+| :--- | :--- |
+| Language & ML | Python · PyTorch · Hugging Face |
+| LLM Serving | vLLM · Ollama |
+| Backend | FastAPI · Redis · Celery |
+| Infrastructure | Docker · Docker Compose · Linux · Harbor · CI/CD |
+| Observability | Prometheus · Grafana · Loki · Alertmanager |
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-</p>
+## Contact
 
-### DevOps / Infra
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+프로젝트와 기술에 관한 이야기는 이메일로 연락해 주세요.
 
-### Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-## **📬 Contact**
-
-- GitHub: https://github.com/Yongyeon-Kim
-- Email: `dyddus1210@gmail.com`
-
----
-
-<div align="center">
-  <sub>Focused on reliable LLM systems and production-grade AI services.</sub>
-</div>
+[dyddus1210@gmail.com](mailto:dyddus1210@gmail.com)
